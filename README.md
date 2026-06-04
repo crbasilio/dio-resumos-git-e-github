@@ -19,3 +19,5 @@ git init
 ## Referências
 - Referências para o curso
 
+## Testando edição direta
+- edição direta
