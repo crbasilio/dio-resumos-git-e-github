@@ -12,10 +12,12 @@ Repositório para armazenar resumos sobre GIT e GITHUB do Curso "Versionamento d
 |-------|---------|
 |Gravando alterações no Repositório | Testando |
 |Mais um teste de Tabela | sei lá |
+|Aula 01|mais uma aula|
+|Aula 02|mais uma aula|
 
-'''
+```
 git init
-'''
+```
 ## Referências
 - Referências para o curso
 
